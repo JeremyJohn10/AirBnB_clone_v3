@@ -3,5 +3,5 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 <h3>Functionalities of this command interpreter:<h3>
 <!..
-** Create a new object (ex: a new User or a new Place)
+- Create a new object (ex: a new User or a new Place)
 ..>
